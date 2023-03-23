@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+#more-button {
+  height: 30vh;
+  width: 50vh;
+  border-radius: 5px;
+  font-size: 30px;
+  outline: 20px groove pink;
+}
+
+#more-button:active {
+  outline-style: ridge;
+}
